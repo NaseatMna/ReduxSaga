@@ -1,0 +1,26 @@
+{
+  "name": "react-js",
+  "version": "1.0.0",
+  "description": "my frist react js project",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "Man Naseat",
+  "license": "ISC",
+  "dependencies": {
+    "flexbox-react": "^4.0.2",
+    "flexboxgrid": "^6.3.1",
+    "muicss": "^0.9.3",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "devDependencies": {
+    "babel-plugin-react-html-attrs": "^2.0.0",
+    "css-loader": "^0.25.0",
+    "npm": "^3.10.9",
+    "style-loader": "^0.13.1"
+  }
+}
